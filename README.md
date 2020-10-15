@@ -1,5 +1,7 @@
 ### Hi there, I'm Augusto Terra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
+📚 Undergraduate Student in Computer Engineering at CIN - UFPE
+
 🕵️‍♀️ Always being curious and building things
 
 👯 I’m available to help and learn together

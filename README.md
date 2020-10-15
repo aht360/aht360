@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Augusto Terra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 
 [![Augusto's github stats](https://github-readme-stats.vercel.app/api?username=aht360&count_private=true)](https://github.com/aht360/github-readme-stats)
 <!--

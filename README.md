@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Augusto's github stats](https://github-readme-stats.vercel.app/api?username=aht360)](https://github.com/aht360/github-readme-stats)
+[![Augusto's github stats](https://github-readme-stats.vercel.app/api?username=aht360&count_private=true)](https://github.com/aht360/github-readme-stats)
 <!--
 **aht360/aht360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

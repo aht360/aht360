@@ -10,7 +10,7 @@
 
 🔭 I’m currently interested in front-end development
 
-⚡ Crossfiter and Programmer xD
+⚡ Doing crossfit and writing some code xD
 
 📍 Recife, Brazil
 
